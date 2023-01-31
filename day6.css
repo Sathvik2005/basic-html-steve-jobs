@@ -1,0 +1,16 @@
+.image{
+    width:1000px;
+    height: 650px;
+    padding-left: 550px;
+}
+
+#h1pos{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#biopos{
+    color: azure;
+    background-color: black ;
+}
